@@ -1,11 +1,6 @@
-#include <stdio.h>
 #include <string.h>
-#include <ctype.h>
-#include <stdlib.h>
-#include <time.h>
-#include <math.h>
 
-char VERSION[16] = "20140418";
+char VERSION[16] = "0.1.0";
 
 // The PESEL struct is defined here.  We use it for storing results.
 typedef struct PESEL {
