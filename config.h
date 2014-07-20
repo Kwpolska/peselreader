@@ -35,7 +35,7 @@
 #define PACKAGE "peselreader"
 
 /* Define to the address where bug reports for this package should be sent. */
-#define PACKAGE_BUGREPORT "kwpolska@kwpolska.tk"
+#define PACKAGE_BUGREPORT "chris@chriswarrick.com"
 
 /* Define to the full name of this package. */
 #define PACKAGE_NAME "peselreader"

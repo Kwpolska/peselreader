@@ -1,4 +1,4 @@
-AC_INIT([peselreader], [0.1.0], [kwpolska@kwpolska.tk])
+AC_INIT([peselreader], [0.1.0], [chris@chriswarrick.com])
 AM_INIT_AUTOMAKE([foreign -Wall -Werror])
 AC_PROG_CC_C99
 AC_LANG([C])
